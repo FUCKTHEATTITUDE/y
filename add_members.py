@@ -31,7 +31,7 @@ group_source = config['group_source']
 group_target = config['group_target']
 api_id = int(config['api_id'])
 api_hash = config['api_hash']
-total_time_in_round = 120
+total_time_in_round = 5
 total_user_big_sleep = 35
 time_big_sleep = 7200
 
